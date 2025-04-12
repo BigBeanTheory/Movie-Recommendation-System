@@ -31,8 +31,9 @@ A Streamlit-based web app that suggests movies using a content-based filtering m
    cd Movie-Recommendation-System
 
 2. **Set up a Virtual Environment**
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 3. **Download Data Files:**
 Ensure movie_list.pkl and similarity.pkl are in the project root. These are generated from project.ipynb or can be downloaded from the repository if provided.
