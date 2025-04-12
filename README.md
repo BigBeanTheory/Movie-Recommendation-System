@@ -2,7 +2,7 @@
 
 A Streamlit-based web app that suggests movies using a content-based filtering model, built with Python, Pandas, and Scikit-learn. *Leverages TMDB data to recommend films based on genres, keywords, cast, and crew, with posters fetched via API.*
 
-**Features**
+## Features
 
   **Personalized Recommendations**: *Select a movie to get five similar movies based on genres, keywords, cast, and crew.*  
   **Interactive Interface**: *Streamlit app with a dropdown for movie selection, random movie suggestions, and a responsive layout.*  
@@ -10,7 +10,7 @@ A Streamlit-based web app that suggests movies using a content-based filtering m
   **Content-Based Filtering**: *Uses cosine similarity on vectorized movie tags (overview, genres, keywords, cast, crew) for accurate suggestions.*  
   **Random Movie Option**: *Suggests a random movie for users seeking inspiration.*
 
-**Tech Stack**
+## Tech Stack
 
   **Languages**: Python  
   **Libraries**:  
@@ -23,7 +23,7 @@ A Streamlit-based web app that suggests movies using a content-based filtering m
   **API**: The Movie Database (TMDB)  
   **Environment**: Local or cloud-hosted (e.g., Streamlit Community Cloud)
 
-**Installation**
+## Installation
 
 1. **Clone the Repository**:  
    ```bash
