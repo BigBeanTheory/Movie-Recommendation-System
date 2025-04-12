@@ -1,4 +1,4 @@
-**Movie-Recommendation-System
+##Movie-Recommendation-System
 
 A Streamlit-based web app that suggests movies using a content-based filtering model, built with Python, Pandas, and Scikit-learn. *Leverages TMDB data to recommend films based on genres, keywords, cast, and crew, with posters fetched via API.*
 
